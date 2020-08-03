@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 My name is Ryan and I am an Android software engineer with great passion on Flutter.
 
 - 🔭 I’m currently working on [Wren](https://birders.cn/wren), a Flutter app for birders to view & listen to bird recordings.
+
+
+![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=ryanhoo&&count_private=true&show_icons=true&theme=prussian)
