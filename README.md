@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 My name is Ryan and I am a full stack software engineer with great passion on Flutter.
 
-- 🔭 I’m currently working on [Wren](https://birders.cn/wren), a Flutter app for birders to view & listen to bird recordings.
+- 🔭 I’m currently working on [Aboutbirds](https://aboutbirds.app/), an app for birders to identify birds with photo/audio.
